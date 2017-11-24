@@ -1,0 +1,25 @@
+	{
+		"name": "app1",
+		"db": 
+		[
+			{
+				"host": "db2",
+				"user": "root",
+				"pass": "",
+				"dbname": "test"
+			}	
+		]
+	}
+	,
+	{
+		"name": "app1",
+		"db": 
+		[
+			{
+				"host1": "db2",
+				"user1": "root",
+				"pass1": "",
+				"dbname1": "test"
+			}
+		]
+	}

@@ -1,0 +1,18 @@
+{ "YKazin":
+{
+		"name":"YKazin",
+		"coins": {
+      		"monero":100.111,
+      		"bitcoin":20.18
+    	}
+},
+ "VKazin":{
+		"name":"VKazin",
+		"coins": {
+	      	"monero":5.111,
+	      	"bitcoin":0.18,
+	      	"litecoin":5.111,
+	      	"dash":0.18
+	    }
+}
+}
